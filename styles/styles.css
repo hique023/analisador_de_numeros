@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(116, 116, 214);
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px;
+    width: 450px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+input {
+    border-radius: 6px;
+    border: 0.8px solid gray;
+}
+
+input:hover {
+    background-color: rgb(212, 212, 212);
+}
+
+input[type="number"] {
+    width: 80px;
+}
+
+select {
+    width: 150px;
+    height: 100px;
+}
